@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @kabris
-- 👀 I’m interested in knowing how to write code and algorithms 
-- 🌱 I’m currently learning cyber security and forensics 
+- 👋 Hi, I’m @kabris 
+- 🌱 I’m a cyber security and forensics enthusiast 
 - 💞️ I’m looking to collaborate on ML and AI 
 - 📫 How to reach me via email karisevans314@gmail.com
 - 😄 Pronouns: He/him
